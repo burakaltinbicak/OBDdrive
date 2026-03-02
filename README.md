@@ -28,7 +28,7 @@ A vehicle diagnostics system. Reads real-time data from vehicles using an ELM327
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/obddrive.git
+git clone https://github.com/burakaltinbicak/obddrive.git
 cd obddrive
 ```
 
@@ -94,7 +94,7 @@ Araç diagnostik sistemi. ELM327 OBD-II cihazı ile araçlardan gerçek zamanlı
 
 1. Repoyu klonla
 ```bash
-git clone https://github.com/kullaniciadi/obddrive.git
+git clone https://github.com/burakaltinbicak/obddrive.git
 cd obddrive
 ```
 
